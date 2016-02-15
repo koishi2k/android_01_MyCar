@@ -1,0 +1,33 @@
+
+
+-------------------------------------------------------------------------------------------------------
+	NAVIGATION DRAWER
+-------------------------------------------------------------------------------------------------------
+
+http://developer.android.com/training/implementing-navigation/nav-drawer.html
+https://www.google.com/design/spec/patterns/navigation-drawer.html#navigation-drawer-specs
+
+https://amatellanes.wordpress.com/2013/05/24/ejemplo-de-navigation-drawer-en-android-parte-i/
+https://amatellanes.wordpress.com/2013/12/04/android-ejemplo-de-navigation-drawer-en-android-parte-2/
+http://www.hermosaprogramacion.com/2014/11/android-navigation-drawer-tutorial/
+
+http://www.vogella.com/tutorials/AndroidListView/article.html
+
+
+
+--------------------------------------------------------------------------------------------------------
+	FLOATING ACTION BUTTON
+--------------------------------------------------------------------------------------------------------
+https://github.com/futuresimple/android-floating-action-button
+http://developer.android.com/intl/es/samples/FloatingActionButtonBasic/index.html
+https://www.google.com/design/spec/components/buttons-floating-action-button.html
+http://www.ahotbrew.com/android-floating-action-button/
+http://stackoverflow.com/questions/30576450/floatingactionbutton-example-with-support-library
+http://developer.android.com/intl/es/reference/android/support/design/widget/FloatingActionButton.html
+
+
+--------------------------------------------------------------------------------------------------------
+	ICONS
+--------------------------------------------------------------------------------------------------------
+https://design.google.com/icons/
+https://github.com/google/material-design-icons/
